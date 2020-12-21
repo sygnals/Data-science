@@ -6,6 +6,8 @@
 # [Data Science Topics](https://github.com/khuyentran1401/Data-science)
 Collection of useful data science topics along with code and articles in my [data science blog](https://medium.com/@khuyentran1476)
 
+Besides these blog posts, I also post bite-sized data science tips daily. Get these daily tips in your mailbox by subscribing to [Data Science Simplified](https://mathdatasimplified.com/)
+
 # Contents
 1. [Data Science Tools](#data-science-tools)
 1. [Machine Learning](#machine-learning)
@@ -164,6 +166,7 @@ Collection of useful data science topics along with code and articles in my [dat
 | ------------- |:-------------:| :-----:|
 | How to Create an Elegant Website for your Data Science Portfolio in 10 minutes | [link](https://towardsdatascience.com/how-to-create-an-elegant-website-for-your-data-science-portfolio-in-10-minutes-577f77d1f693)| 
 | Build an Impressive Github Profile in 3 Steps | [link](https://towardsdatascience.com/build-an-impressive-github-profile-in-3-steps-f1938957d480)
+
 
 
 
